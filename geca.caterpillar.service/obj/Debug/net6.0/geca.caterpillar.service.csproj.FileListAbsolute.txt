@@ -1,0 +1,12 @@
+C:\Workspace\GECA\geca.catepillar.app\geca.caterpillar.service\bin\Debug\net6.0\geca.caterpillar.service.deps.json
+C:\Workspace\GECA\geca.catepillar.app\geca.caterpillar.service\bin\Debug\net6.0\geca.caterpillar.service.dll
+C:\Workspace\GECA\geca.catepillar.app\geca.caterpillar.service\bin\Debug\net6.0\geca.caterpillar.service.pdb
+C:\Workspace\GECA\geca.catepillar.app\geca.caterpillar.service\obj\Debug\net6.0\geca.caterpillar.service.csproj.AssemblyReference.cache
+C:\Workspace\GECA\geca.catepillar.app\geca.caterpillar.service\obj\Debug\net6.0\geca.caterpillar.service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\GECA\geca.catepillar.app\geca.caterpillar.service\obj\Debug\net6.0\geca.caterpillar.service.AssemblyInfoInputs.cache
+C:\Workspace\GECA\geca.catepillar.app\geca.caterpillar.service\obj\Debug\net6.0\geca.caterpillar.service.AssemblyInfo.cs
+C:\Workspace\GECA\geca.catepillar.app\geca.caterpillar.service\obj\Debug\net6.0\geca.caterpillar.service.csproj.CoreCompileInputs.cache
+C:\Workspace\GECA\geca.catepillar.app\geca.caterpillar.service\obj\Debug\net6.0\geca.caterpillar.service.dll
+C:\Workspace\GECA\geca.catepillar.app\geca.caterpillar.service\obj\Debug\net6.0\refint\geca.caterpillar.service.dll
+C:\Workspace\GECA\geca.catepillar.app\geca.caterpillar.service\obj\Debug\net6.0\geca.caterpillar.service.pdb
+C:\Workspace\GECA\geca.catepillar.app\geca.caterpillar.service\obj\Debug\net6.0\ref\geca.caterpillar.service.dll
